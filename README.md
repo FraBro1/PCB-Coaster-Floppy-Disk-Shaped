@@ -14,6 +14,8 @@ The grid is set to mm too!
 # Initial Gerbers are added for convenience.
 # I purposedly did not 'drill' the holes for Write Protect and HD Detect as it would add to costs.
 
+The soldermask has been edited (again); Eagle didn't like the polygon fill for some reason, changed it to rects.
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
