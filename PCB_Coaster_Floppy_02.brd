@@ -126,6 +126,7 @@
 <rectangle x1="38.5" y1="49.5" x2="40" y2="55" layer="16"/>
 <rectangle x1="38.5" y1="49.5" x2="48" y2="51" layer="16"/>
 <rectangle x1="39.5" y1="34" x2="43" y2="48" layer="16"/>
+<text x="12" y="82" size="1.778" layer="16" font="vector" rot="MR270">FraBro 2023</text>
 </plain>
 <libraries>
 </libraries>
