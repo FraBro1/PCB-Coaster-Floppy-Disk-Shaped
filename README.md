@@ -8,6 +8,8 @@
 # :-)
 
 # Without the Gerber files it is not advised to get PCBs produced, they will most likely look wrong.
+# Initial Gerbers are added for convenience.
+# I purposedly did not 'drill' the holes for Write Protect and HD Detect as it would add to costs.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
