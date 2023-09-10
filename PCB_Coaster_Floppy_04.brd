@@ -41,7 +41,7 @@
 <layer number="45" name="Holes" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
-<layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
+<layer number="48" name="Document" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="51" name="tDocu" color="7" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="yes" active="yes"/>
@@ -96,7 +96,7 @@
 <wire x1="80.53" y1="82.22" x2="80.53" y2="76.22" width="0.5" layer="27" curve="-188" cap="flat"/>
 <wire x1="80.53" y1="81.22" x2="80.53" y2="77.22" width="0.5" layer="25" curve="-194.250033" cap="flat"/>
 <dimension x1="77.5" y1="76" x2="77.5" y2="90" x3="102" y3="83" textsize="1.778" layer="48"/>
-<dimension x1="76" y1="82.5" x2="90" y2="82.5" x3="83" y3="93" textsize="1.778" layer="48"/>
+<dimension x1="76.5" y1="82.5" x2="90" y2="82.5" x3="83.25" y3="93" textsize="1.778" layer="48"/>
 <dimension x1="70" y1="76" x2="80" y2="76" x3="75" y3="68" textsize="1.778" layer="48"/>
 <rectangle x1="50" y1="61" x2="62" y2="86" layer="42" rot="R180"/>
 <dimension x1="76" y1="0" x2="76" y2="14" x3="100.5" y3="7" textsize="1.778" layer="48"/>
