@@ -4,6 +4,9 @@
 
 # Note:
 # The dimensions are rounded to next mm,
+in fact, everything is set to mm or 1/2 of a mm.
+The grid is set to mm too!
+
 # It is not supposed to be a real representation of a floppy disk; instead it is meant to be recognisable and look ok at the same time.
 # :-)
 
