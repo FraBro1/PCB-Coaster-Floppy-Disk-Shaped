@@ -80,6 +80,10 @@
 <rectangle x1="50" y1="61" x2="62" y2="86" layer="41"/>
 <rectangle x1="2.5" y1="6.5" x2="6.5" y2="9.5" layer="41"/>
 <rectangle x1="83.5" y1="6.5" x2="87.5" y2="9.5" layer="41"/>
+<dimension x1="83" y1="0" x2="83" y2="10" x3="95" y3="5" textsize="1.778" layer="48"/>
+<dimension x1="83" y1="6" x2="83" y2="10" x3="85.5" y3="8" textsize="1.778" layer="48"/>
+<dimension x1="88" y1="6" x2="83" y2="6" x3="85.5" y3="10" textsize="1.778" layer="48"/>
+<dimension x1="81" y1="0" x2="83" y2="0" x3="82" y3="19" textsize="1.778" layer="48"/>
 </plain>
 <libraries>
 </libraries>
