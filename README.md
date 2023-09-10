@@ -6,6 +6,9 @@
 # The dimensions are rounded to next mm,
 # It is not supposed to be a real representation of a floppy disk; instead it is meant to be recognisable and look ok at the same time.
 # :-)
+
+# Without the Gerber files it is not advised to get PCBs produced, they will most likely look wrong.
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
